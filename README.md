@@ -3,7 +3,7 @@ The aim of this project is to obtain similar results with orthodox approaches, u
 TODO: Add more info
 
 ## Train accuracies
-![Training accuracies](https://i.imgur.com/qLnZ5Kd_d.webp?maxwidth=760&fidelity=grand)
+![Training accuracies](https://i.imgur.com/sVhC3gf.png)
 
 ## Test accuracies
-![Test accuracies](https://i.imgur.com/Hz7I0Zo.png)
+![Test accuracies](https://i.imgur.com/P8jHpPS.png)
